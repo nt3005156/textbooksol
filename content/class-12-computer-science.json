@@ -1,0 +1,817 @@
+{
+  "class": 12,
+  "subject": "Computer Science",
+  "book": "Computer Science - 12",
+  "units": [
+    {
+      "unit_id": "unit-1",
+      "chapter": "Chapter 1",
+      "title": "Chapter 1 — Introduction to Programming",
+      "pages": "",
+      "overview": "Chapter 1 covers introduction to programming from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 1 — Introduction to Programming. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What is programming?",
+            "a": "Writing instructions for a computer to solve problems using a programming language."
+          },
+          {
+            "q": "2. Name two programming languages.",
+            "a": "Python and C++. Others: Java, C#, JavaScript."
+          }
+        ],
+        "short": [
+          {
+            "q": "3. What is an algorithm?",
+            "a": "A step-by-step procedure to solve a problem."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is programming?",
+            "a": "Writing instructions for a computer to solve problems using a programming language."
+          },
+          {
+            "q": "2. Name two programming languages.",
+            "a": "Python and C++. Others: Java, C#, JavaScript."
+          },
+          {
+            "q": "3. What is an algorithm?",
+            "a": "A step-by-step procedure to solve a problem."
+          }
+        ]
+      },
+      "study_note": "Chapter 1 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-2",
+      "chapter": "Chapter 2",
+      "title": "Chapter 2 — Data Types and Variables",
+      "pages": "",
+      "overview": "Chapter 2 covers data types and variables from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 2 — Data Types and Variables. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What are data types? Give examples.",
+            "a": "Types of data: integer, float, char, boolean, string."
+          },
+          {
+            "q": "2. Difference between variable and constant?",
+            "a": "Variable changes; constant remains fixed."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What are data types? Give examples.",
+            "a": "Types of data: integer, float, char, boolean, string."
+          },
+          {
+            "q": "2. Difference between variable and constant?",
+            "a": "Variable changes; constant remains fixed."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 2 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-3",
+      "chapter": "Chapter 3",
+      "title": "Chapter 3 — Control Structures",
+      "pages": "",
+      "overview": "Chapter 3 covers control structures from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 3 — Control Structures. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What is a loop? Give types.",
+            "a": "Loop repeats instructions: for, while, do-while."
+          },
+          {
+            "q": "2. What is conditional statement?",
+            "a": "If-else, switch — makes decisions based on conditions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is a loop? Give types.",
+            "a": "Loop repeats instructions: for, while, do-while."
+          },
+          {
+            "q": "2. What is conditional statement?",
+            "a": "If-else, switch — makes decisions based on conditions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 3 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-4",
+      "chapter": "Chapter 4",
+      "title": "Chapter 4 — Functions and Procedures",
+      "pages": "",
+      "overview": "Chapter 4 covers functions and procedures from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 4 — Functions and Procedures. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What is a function?",
+            "a": "Reusable block of code that performs a task and returns a result."
+          },
+          {
+            "q": "2. Difference between function and procedure?",
+            "a": "Function returns value; procedure performs action without returning."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is a function?",
+            "a": "Reusable block of code that performs a task and returns a result."
+          },
+          {
+            "q": "2. Difference between function and procedure?",
+            "a": "Function returns value; procedure performs action without returning."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 4 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-5",
+      "chapter": "Chapter 5",
+      "title": "Chapter 5 — Arrays and Strings",
+      "pages": "",
+      "overview": "Chapter 5 covers arrays and strings from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 5 — Arrays and Strings. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What is an array?",
+            "a": "Collection of elements of same type indexed by position."
+          },
+          {
+            "q": "2. What is a string?",
+            "a": "Sequence of characters used for text."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is an array?",
+            "a": "Collection of elements of same type indexed by position."
+          },
+          {
+            "q": "2. What is a string?",
+            "a": "Sequence of characters used for text."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 5 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-6",
+      "chapter": "Chapter 6",
+      "title": "Chapter 6 — File Handling",
+      "pages": "",
+      "overview": "Chapter 6 covers file handling from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 6 — File Handling. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 6 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-7",
+      "chapter": "Chapter 7",
+      "title": "Chapter 7 — Object-Oriented Concepts",
+      "pages": "",
+      "overview": "Chapter 7 covers object-oriented concepts from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 7 — Object-Oriented Concepts. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 7 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-8",
+      "chapter": "Chapter 8",
+      "title": "Chapter 8 — Database Management",
+      "pages": "",
+      "overview": "Chapter 8 covers database management from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 8 — Database Management. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 8 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-9",
+      "chapter": "Chapter 9",
+      "title": "Chapter 9 — Networking Concepts",
+      "pages": "",
+      "overview": "Chapter 9 covers networking concepts from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 9 — Networking Concepts. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 9 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-10",
+      "chapter": "Chapter 10",
+      "title": "Chapter 10 — Web Programming Basics",
+      "pages": "",
+      "overview": "Chapter 10 covers web programming basics from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 10 — Web Programming Basics. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 10 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-11",
+      "chapter": "Chapter 11",
+      "title": "Chapter 11 — Computer Graphics",
+      "pages": "",
+      "overview": "Chapter 11 covers computer graphics from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 11 — Computer Graphics. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 11 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-12",
+      "chapter": "Chapter 12",
+      "title": "Chapter 12 — Software Engineering",
+      "pages": "",
+      "overview": "Chapter 12 covers software engineering from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 12 — Software Engineering. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 12 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-13",
+      "chapter": "Chapter 13",
+      "title": "Chapter 13 — Mobile Applications",
+      "pages": "",
+      "overview": "Chapter 13 covers mobile applications from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 13 — Mobile Applications. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 13 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-14",
+      "chapter": "Chapter 14",
+      "title": "Chapter 14 — Cloud Computing Basics",
+      "pages": "",
+      "overview": "Chapter 14 covers cloud computing basics from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 14 — Cloud Computing Basics. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 14 — review programming concepts and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-15",
+      "chapter": "Chapter 15",
+      "title": "Chapter 15 — Contemporary Technologies",
+      "pages": "",
+      "overview": "Chapter 15 covers contemporary technologies from the Class 12 Computer Science textbook.",
+      "summary": "Chapter 15 — Contemporary Technologies. Key programming and system concepts are covered. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary for full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on chapter content: review summary and key definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary for explanation."
+          }
+        ]
+      },
+      "study_note": "Chapter 15 — review programming concepts and apply exercise answers from textbook."
+    }
+  ]
+}

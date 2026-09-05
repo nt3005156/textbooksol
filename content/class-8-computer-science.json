@@ -1,0 +1,968 @@
+{
+  "class": 8,
+  "subject": "Computer Science",
+  "book": "Computer Science - 8 Final",
+  "units": [
+    {
+      "class": 8,
+      "subject": "Computer Science",
+      "book": "Computer Science - 8 Final",
+      "chapter": "Chapter 1",
+      "title": "Chapter 1 — Introduction to Computers",
+      "pages": "1–8",
+      "summary": "This chapter covers introduction to computers based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "definition",
+          "term": "Computer",
+          "text": "An electronic machine that accepts data, processes it according to instructions, and produces output."
+        },
+        {
+          "type": "keypoint",
+          "term": "GIGO",
+          "text": "Garbage In Garbage Out — incorrect input gives incorrect output; correct input gives correct output."
+        },
+        {
+          "type": "remember",
+          "term": "Storage Units",
+          "text": "1 bit = 0/1; 4 bits = 1 nibble; 8 bits = 1 byte; 1024 bytes = 1 KB; 1024 KB = 1 MB."
+        },
+        {
+          "type": "example",
+          "term": "Versatility",
+          "text": "Same computer can do math calculations, graphics design, word processing, and programming depending on the software provided."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "From which Latin word is the term 'computer' derived?",
+            "a": "Computare (meaning to calculate/compute)."
+          },
+          {
+            "q": "What does CPU stand for?",
+            "a": "Central Processing Unit."
+          },
+          {
+            "q": "Give any two examples of input devices.",
+            "a": "Keyboard and mouse."
+          },
+          {
+            "q": "Name any two permanent storage devices.",
+            "a": "Hard disk and USB flash drive (or CD/DVD)."
+          },
+          {
+            "q": "What is GIGO?",
+            "a": "Garbage In Garbage Out — wrong input produces wrong output."
+          }
+        ],
+        "short": [
+          {
+            "q": "Define diligence of a computer.",
+            "a": "A computer is diligent because it can perform repetitive tasks continuously for hours or days without becoming bored or tired, maintaining the same speed and accuracy."
+          },
+          {
+            "q": "What does versatility mean?",
+            "a": "A computer can perform different tasks (simple calculations to complex logic) depending on the program provided. It is not limited to one type of job."
+          },
+          {
+            "q": "Explain accuracy of a computer.",
+            "a": "Accuracy is consistently high (about 100%). It depends on correct input and instructions. The GIGO principle states incorrect input leads to incorrect output."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the major characteristics of a computer.",
+            "a": "The major characteristics are: (1) Speed — millions of calculations per second; (2) Accuracy — ~100% if input is correct (GIGO); (3) Automation — works automatically after receiving data and instructions; (4) Diligence — performs repetitive tasks continuously without fatigue; (5) Versatility — handles different jobs using different programs; (6) Storage capacity — stores huge amounts in memory divided into primary (RAM/ROM) and secondary (disk/USB/CD)."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. From which Latin word is the term 'computer' derived? Explain.",
+            "a": "The term is derived from the Latin word 'computare', meaning 'to calculate' or 'to compute'."
+          },
+          {
+            "q": "2. What does CPU stand for? What is its role?",
+            "a": "CPU = Central Processing Unit. It is the brain of the computer that processes instructions and performs calculations."
+          },
+          {
+            "q": "3. Give any two examples of input devices.",
+            "a": "Keyboard and mouse are common input devices."
+          },
+          {
+            "q": "4. Name any two permanent storage devices.",
+            "a": "Hard disk drive and USB flash drive are permanent (secondary) storage devices."
+          },
+          {
+            "q": "Self-Test 1.1 — 1. Define diligence.",
+            "a": "Diligence means a computer can work continuously for long periods without becoming tired or bored, repeating tasks with the same speed and accuracy."
+          },
+          {
+            "q": "Self-Test 1.1 — 2. What does GIGO stand for?",
+            "a": "GIGO = Garbage In Garbage Out."
+          },
+          {
+            "q": "Self-Test 1.1 — 3. What do you mean by versatility?",
+            "a": "Versatility means the computer can perform many different types of tasks depending on the program given to it."
+          },
+          {
+            "q": "Self-Test 1.1 — 4. What do you mean by accuracy?",
+            "a": "Accuracy means the computer produces correct results (near 100%) when given correct input and instructions."
+          }
+        ]
+      },
+      "diagrams": [
+        {
+          "type": "table",
+          "title": "Computer Characteristics",
+          "svg": "<svg viewBox='0 0 400 160' xmlns='http://www.w3.org/2000/svg' aria-label='Characteristics'><rect x='10' y='10' width='380' height='30' rx='6' fill='#0f172a'/><text x='30' y='30' fill='#fff' font-size='12' font-family='sans-serif' font-weight='bold'>Characteristic | Meaning</text><rect x='10' y='40' width='380' height='22' rx='4' fill='#fff7ed'/><text x='20' y='55' fill='#0f172a' font-size='10'>Speed | Millions of calculations/second</text><rect x='10' y='62' width='380' height='22' rx='4' fill='#fff'/><text x='20' y='77' fill='#0f172a' font-size='10'>Accuracy | ~100% (GIGO principle)</text><rect x='10' y='84' width='380' height='22' rx='4' fill='#fff7ed'/><text x='20' y='99' fill='#0f172a' font-size='10'>Automation | Works automatically after input</text><rect x='10' y='106' width='380' height='22' rx='4' fill='#fff'/><text x='20' y='121' fill='#0f172a' font-size='10'>Diligence | No fatigue / continuous work</text><rect x='10' y='128' width='380' height='22' rx='4' fill='#fff7ed'/><text x='20' y='143' fill='#0f172a' font-size='10'>Versatility | Many tasks via different programs</text></svg>"
+        }
+      ],
+      "study_note": "Remember: Computer = input → process → output. Key traits: Speed, Accuracy (GIGO), Automation, Diligence, Versatility, Storage. Units: bit → nibble → byte → KB → MB."
+    },
+    {
+      "unit_id": "unit-2",
+      "chapter": "Chapter 2",
+      "title": "Chapter 2 — Computer Hardware and Components",
+      "pages": "",
+      "overview": "Chapter 1 5 SELF-TEST 1.3 1. What is data? 2. Define information with an example. 3. Define program. 4.",
+      "summary": "This chapter covers computer hardware and components based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "definition",
+          "term": "What",
+          "text": "What is data? 2."
+        },
+        {
+          "type": "definition",
+          "term": "What",
+          "text": "What is software? 1.4 Application of Computer Computers are powerful machines that play an important role in our daily lives."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "What is data?",
+            "a": "Based on the chapter text: What is data?"
+          },
+          {
+            "q": "Define information with an example.",
+            "a": "Based on the chapter text: Define information with an example."
+          },
+          {
+            "q": "Define program.",
+            "a": "Based on the chapter text: Define program."
+          }
+        ],
+        "short": [
+          {
+            "q": "What is software?",
+            "a": "Based on the chapter text: What is software?"
+          }
+        ],
+        "long": [
+          {
+            "q": "What is software?",
+            "a": "Based on the chapter text: What is software?"
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is hardware?",
+            "a": "Physical parts of computer that can be touched (keyboard, CPU, monitor, memory)."
+          },
+          {
+            "q": "2. Name two input devices.",
+            "a": "Keyboard and mouse."
+          },
+          {
+            "q": "3. What is the function of CPU?",
+            "a": "CPU processes data; contains ALU (arithmetic/logic) and Control Unit."
+          },
+          {
+            "q": "4. Difference between RAM and ROM?",
+            "a": "RAM is temporary/volatile; ROM is permanent/non-volatile (stores BIOS)."
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 2: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-3",
+      "chapter": "Chapter 3",
+      "title": "Chapter 3 — Computer Memory and Storage",
+      "pages": "",
+      "overview": "Chapter 1 7 5. Use of Computers in Bank Banks use computers to process transactions, maintain customer accounts, and issue receipts. They enable online banking, electronic fund transfers, and 24-hour ATM services. Computers with magnetic- ink character readers process large volumes of cheques effici",
+      "summary": "This chapter covers computer memory and storage based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Chapter 1 7 5. Use of Computers in Bank Banks use computers to process transactions, maintain customer accounts, and issue receipts. They enable online banking, electronic fund transfers, and 24-hour "
+        }
+      ],
+      "questions": {
+        "very_short": [],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary section."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is primary memory?",
+            "a": "Memory directly accessed by CPU: RAM and ROM."
+          },
+          {
+            "q": "2. What is RAM?",
+            "a": "Random Access Memory; temporary and volatile."
+          },
+          {
+            "q": "3. What is ROM?",
+            "a": "Read Only Memory; permanent, stores boot instructions."
+          },
+          {
+            "q": "4. Give one secondary storage example.",
+            "a": "Hard disk, USB flash drive, or CD."
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 3: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-4",
+      "chapter": "Chapter 4",
+      "title": "Chapter 4 — Computer Software",
+      "pages": "",
+      "overview": "Chapter 1 9 11. Use of Computers in CAD (Computer Aided Design) Computers enable engineers and architects to design machines, buildings, and electronic circuits using CAD software. It creates detailed 2D drawings and 3D models with precise dimensions. CAD outputs guide manufacturing and construction",
+      "summary": "This chapter covers computer software based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "definition",
+          "term": "Popular software like AutoCAD",
+          "text": "Popular software like AutoCAD is widely used for preparing technical drawings across mechanical, civil, and electrical engineering fields."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "What does POS stand for in business applications?",
+            "a": "Based on the chapter text: What does POS stand for in business applications?"
+          },
+          {
+            "q": "Which machine is used to scan or diagnose human body?",
+            "a": "Based on the chapter text: Which machine is used to scan or diagnose human body?"
+          },
+          {
+            "q": "Name one task where robots can replace humans.",
+            "a": "Based on the chapter text: Name one task where robots can replace humans."
+          }
+        ],
+        "short": [
+          {
+            "q": "Which technology allows people to buy and sell products online?",
+            "a": "Based on the chapter text: Which technology allows people to buy and sell products online?"
+          }
+        ],
+        "long": [
+          {
+            "q": "Which technology allows people to buy and sell products online?",
+            "a": "Based on the chapter text: Which technology allows people to buy and sell products online?"
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is software?",
+            "a": "Set of instructions/programs that tell hardware what to do."
+          },
+          {
+            "q": "2. Name two types of software.",
+            "a": "System software (OS) and application software (Word, Excel)."
+          },
+          {
+            "q": "3. What is an OS?",
+            "a": "Operating System — manages hardware and provides services for applications."
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 4: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-5",
+      "chapter": "Chapter 5",
+      "title": "Chapter 5 — Operating System",
+      "pages": "",
+      "overview": "Chapter 1 11   s Write the Full of 1. CPU 5. bit 6. E-office 7. CT Scan s Multiple Choice Questions 1.",
+      "summary": "This chapter covers operating system based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Chapter 1 11   s Write the Full of 1. CPU 5. bit 6. E-office 7. CT Scan s Multiple Choice Questions 1."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "What does GIGO stand for?",
+            "a": "Based on the chapter text: What does GIGO stand for?"
+          },
+          {
+            "q": "Which component is responsible for executing data according to instructions?",
+            "a": "Based on the chapter text: Which component is responsible for executing data according to instructions?"
+          },
+          {
+            "q": "Which of the following is an example of an input device?",
+            "a": "Examples: keyboard, mouse, scanner, microphone."
+          }
+        ],
+        "short": [
+          {
+            "q": "How many bytes are in one kilobyte?",
+            "a": "Based on the chapter text: How many bytes are in one kilobyte?"
+          },
+          {
+            "q": "In which field is CAD software commonly used?",
+            "a": "Based on the chapter text: In which field is CAD software commonly used?"
+          }
+        ],
+        "long": [
+          {
+            "q": "What does POS stand for in business applications?",
+            "a": "Based on the chapter text: What does POS stand for in business applications?"
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What does OS stand for?",
+            "a": "Operating System."
+          },
+          {
+            "q": "2. List two functions of OS.",
+            "a": "Process management and memory management."
+          },
+          {
+            "q": "3. Give two OS examples.",
+            "a": "Windows and Linux."
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 5: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-6",
+      "chapter": "Chapter 6",
+      "title": "Chapter 6 — ICT and Cyber Law",
+      "pages": "",
+      "overview": "Chapter 1 13 22. What information do computers store for ticket reservations? a. Employee salaries b. Flight number, route, distance, seats available, and fare c.",
+      "summary": "This chapter covers ict and cyber law based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Chapter 1 13 22. What information do computers store for ticket reservations? a. Employee salaries b. Flight number, route, distance, seats available, and fare c."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "What information do computers store for ticket reservations?",
+            "a": "Based on the chapter text: What information do computers store for ticket reservations?"
+          },
+          {
+            "q": "How do computers help in air traffic control?",
+            "a": "Based on the chapter text: How do computers help in air traffic control?"
+          },
+          {
+            "q": "Where can robots be used that are unsafe for humans?",
+            "a": "Based on the chapter text: Where can robots be used that are unsafe for humans?"
+          }
+        ],
+        "short": [
+          {
+            "q": "What can CAD software create?",
+            "a": "Based on the chapter text: What can CAD software create?"
+          },
+          {
+            "q": "What is a computer?  What is the result obtained after processing data called?",
+            "a": "Based on the chapter text: What is a computer?  What is the result obtained after processing data called?"
+          }
+        ],
+        "long": [
+          {
+            "q": "What do you mean by automation and diligence of computers?",
+            "a": "Based on the chapter text: What do you mean by automation and diligence of computers?"
+          }
+        ],
+        "exercise": [
+          {
+            "q": "What information do computers store for ticket reservations?",
+            "a": "Based on the chapter text: What information do computers store for ticket reservations?"
+          },
+          {
+            "q": "How do computers help in air traffic control?",
+            "a": "Based on the chapter text: How do computers help in air traffic control?"
+          },
+          {
+            "q": "Where can robots be used that are unsafe for humans?",
+            "a": "Based on the chapter text: Where can robots be used that are unsafe for humans?"
+          },
+          {
+            "q": "What can CAD software create?",
+            "a": "Based on the chapter text: What can CAD software create?"
+          },
+          {
+            "q": "What is a computer?  What is the result obtained after processing data called?",
+            "a": "Based on the chapter text: What is a computer?  What is the result obtained after processing data called?"
+          },
+          {
+            "q": "What do you mean by automation and diligence of computers?",
+            "a": "Based on the chapter text: What do you mean by automation and diligence of computers?"
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 6: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-7",
+      "chapter": "Chapter 7",
+      "title": "Chapter 7 — Internet",
+      "pages": "",
+      "overview": "Chapter 2 17 Figure: Hierarchical classification of computer memory Primary Memory Primary memory, also called internal memory, is computer's short-term storage. It is the main memory of a computer that stores data and instructions temporarily (i.e., RAM also called volatile memory) that are current",
+      "summary": "This chapter covers internet based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "definition",
+          "term": "Chapter 2 17 Figure: Hierarchi",
+          "text": "Chapter 2 17 Figure: Hierarchical classification of computer memory Primary Memory Primary memory, also called internal memory, is computer's short-term storage."
+        },
+        {
+          "type": "definition",
+          "term": "ROM",
+          "text": "ROM is used to store permanent instructions that a computer needs to start and operate properly."
+        },
+        {
+          "type": "definition",
+          "term": "Primary memory",
+          "text": "Primary memory is directly connected to the CPU and is essential for the computer to function."
+        },
+        {
+          "type": "definition",
+          "term": "Primary memory",
+          "text": "Primary memory is faster than secondary storage but has limited storage capacity."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "What is the main function of computer memory?",
+            "a": "Based on the chapter text: What is the main function of computer memory?"
+          },
+          {
+            "q": "Which memory is volatile: RAM or ROM, why?",
+            "a": "Based on the chapter text: Which memory is volatile: RAM or ROM, why?"
+          },
+          {
+            "q": "What happens to RAM when the power is turned off?",
+            "a": "Based on the chapter text: What happens to RAM when the power is turned off?"
+          }
+        ],
+        "short": [
+          {
+            "q": "What is the main function of computer memory?",
+            "a": "Based on the chapter text: What is the main function of computer memory?"
+          },
+          {
+            "q": "Which memory is volatile: RAM or ROM, why?",
+            "a": "Based on the chapter text: Which memory is volatile: RAM or ROM, why?"
+          }
+        ],
+        "long": [
+          {
+            "q": "What happens to RAM when the power is turned off?",
+            "a": "Based on the chapter text: What happens to RAM when the power is turned off?"
+          }
+        ],
+        "exercise": [
+          {
+            "q": "What is the main function of computer memory?",
+            "a": "Based on the chapter text: What is the main function of computer memory?"
+          },
+          {
+            "q": "Which memory is volatile: RAM or ROM, why?",
+            "a": "Based on the chapter text: Which memory is volatile: RAM or ROM, why?"
+          },
+          {
+            "q": "What happens to RAM when the power is turned off?",
+            "a": "Based on the chapter text: What happens to RAM when the power is turned off?"
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 7: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-8",
+      "chapter": "Chapter 8",
+      "title": "Chapter 8 — Computer Malware",
+      "pages": "",
+      "overview": "Chapter 2 19 Types of ROM There are mainly three types of ROM: i. PROM (Programmable Read Only Memory): PROM is a type of ROM that can be written (programmed) only once. After that, the data cannot be changed. ii. EPROM (Erasable Programmable Read Only Memory): EPROM is a type of ROM that can be era",
+      "summary": "This chapter covers computer malware based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "definition",
+          "term": "PROM (Programmable Read Only M",
+          "text": "PROM (Programmable Read Only Memory): PROM is a type of ROM that can be written (programmed) only once."
+        },
+        {
+          "type": "definition",
+          "term": "EPROM (Erasable Programmable R",
+          "text": "EPROM (Erasable Programmable Read Only Memory): EPROM is a type of ROM that can be erased using ultraviolet (UV) light and then reprogrammed again. iii."
+        },
+        {
+          "type": "definition",
+          "term": "EEPROM (Electrically Erasable ",
+          "text": "EEPROM (Electrically Erasable Programmable Read Only Memory): EEPROM is a type of ROM that can be erased and reprogrammed using electricity without removing it from the computer."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Define ROM.",
+            "a": "Based on the chapter text: Define ROM."
+          },
+          {
+            "q": "Which memory stores startup instructions?",
+            "a": "Based on the chapter text: Which memory stores startup instructions?"
+          },
+          {
+            "q": "Name the main type of ROM?",
+            "a": "Based on the chapter text: Name the main type of ROM?"
+          }
+        ],
+        "short": [
+          {
+            "q": "Which memory is faster: cache or RAM?",
+            "a": "Based on the chapter text: Which memory is faster: cache or RAM?"
+          }
+        ],
+        "long": [
+          {
+            "q": "Which memory is faster: cache or RAM?",
+            "a": "Based on the chapter text: Which memory is faster: cache or RAM?"
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Define ROM.",
+            "a": "Based on the chapter text: Define ROM."
+          },
+          {
+            "q": "Which memory stores startup instructions?",
+            "a": "Based on the chapter text: Which memory stores startup instructions?"
+          },
+          {
+            "q": "Name the main type of ROM?",
+            "a": "Based on the chapter text: Name the main type of ROM?"
+          },
+          {
+            "q": "Which memory is faster: cache or RAM?",
+            "a": "Based on the chapter text: Which memory is faster: cache or RAM?"
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 8: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-9",
+      "chapter": "Chapter 9",
+      "title": "Chapter 9 — Word Processing (MS Word)",
+      "pages": "",
+      "overview": "Chapter 2 21 Features of Secondary Storage Some features of secondary storage are: • It has high storage capacity. • It can be used for transferring data from one computer to another. • It is a non-volatile memory. • It is usually cheaper and slower to read/write operation than primary memory. Types",
+      "summary": "This chapter covers word processing (ms word) based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Chapter 2 21 Features of Secondary Storage Some features of secondary storage are: • It has high storage capacity. • It can be used for transferring data from one computer to another. • It is a non-vo"
+        }
+      ],
+      "questions": {
+        "very_short": [],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary section."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review question from chapter (see textbook text).",
+            "a": "Based on the chapter content: review the summary and key definitions for the correct explanation."
+          },
+          {
+            "q": "Definition question from chapter.",
+            "a": "Refer to the chapter summary section for the definition and explanation."
+          },
+          {
+            "q": "Application/example question.",
+            "a": "Based on textbook examples described in the chapter — apply the concept to the given scenario."
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 9: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-10",
+      "chapter": "Chapter 10",
+      "title": "Chapter 10 — Spreadsheet (MS Excel)",
+      "pages": "",
+      "overview": "Chapter 2 23 Different types of optical disc (also called optical storage or optical devices or optical media) are available in the market. Some of them are CD-ROM (Compact Disc Read Only Memory), DVD (Digital Versatile Disc), and Blu-ray Disc (BD). c. Flash Memory A flash memory is a semiconductor ",
+      "summary": "This chapter covers spreadsheet (ms excel) based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "definition",
+          "term": "Flash Memory A flash memory",
+          "text": "Flash Memory A flash memory is a semiconductor memory."
+        },
+        {
+          "type": "definition",
+          "term": "It",
+          "text": "It is used for storing data permanently as well as for transferring data from one computer to another."
+        },
+        {
+          "type": "definition",
+          "term": "Memory Chip/Card: A memory chi",
+          "text": "Memory Chip/Card: A memory chip/card is a common storage device for the portable electronic devices like mobile phone, tablet, digital camera, portable media players, and video game consoles."
+        }
+      ],
+      "questions": {
+        "very_short": [],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary section."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review question from chapter (see textbook text).",
+            "a": "Based on the chapter content: review the summary and key definitions for the correct explanation."
+          },
+          {
+            "q": "Definition question from chapter.",
+            "a": "Refer to the chapter summary section for the definition and explanation."
+          },
+          {
+            "q": "Application/example question.",
+            "a": "Based on textbook examples described in the chapter — apply the concept to the given scenario."
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 10: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-11",
+      "chapter": "Chapter 11",
+      "title": "Chapter 11 — Presentation (MS PowerPoint)",
+      "pages": "",
+      "overview": "Chapter 2 25 Functions of Solid State Drive Some functions of solid state drive are: 1. It offers long-term storage similar to HDDs but with faster data access speeds. 2. It stores data in flash memory, allowing for quick read and write operations. 3. It enhances overall system performance and boot ",
+      "summary": "This chapter covers presentation (ms powerpoint) based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Chapter 2 25 Functions of Solid State Drive Some functions of solid state drive are: 1. It offers long-term storage similar to HDDs but with faster data access speeds. 2. It stores data in flash memor"
+        }
+      ],
+      "questions": {
+        "very_short": [],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary section."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review question from chapter (see textbook text).",
+            "a": "Based on the chapter content: review the summary and key definitions for the correct explanation."
+          },
+          {
+            "q": "Definition question from chapter.",
+            "a": "Refer to the chapter summary section for the definition and explanation."
+          },
+          {
+            "q": "Application/example question.",
+            "a": "Based on textbook examples described in the chapter — apply the concept to the given scenario."
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 11: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-12",
+      "chapter": "Chapter 12",
+      "title": "Chapter 12 — Drawing (MS Paint)",
+      "pages": "",
+      "overview": "Chapter 2 27 Units of Memory Measurement Memory unit refers to the specific amount of data that can be stored within a memory device. Memory is measured in units based on bytes, which represent how much information can be stored. Here are the main units: Unit Abbreviation in Unit 0 or 1 1 bit 1 Nibb",
+      "summary": "This chapter covers drawing (ms paint) based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "definition",
+          "term": "Chapter 2 27 Units of Memory M",
+          "text": "Chapter 2 27 Units of Memory Measurement Memory unit refers to the specific amount of data that can be stored within a memory device."
+        },
+        {
+          "type": "definition",
+          "term": "Memory",
+          "text": "Memory is measured in units based on bytes, which represent how much information can be stored."
+        },
+        {
+          "type": "definition",
+          "term": "What",
+          "text": "What is cloud storage? 3."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "How many bits are in two bytes?",
+            "a": "Based on the chapter text: How many bits are in two bytes?"
+          },
+          {
+            "q": "What is cloud storage?",
+            "a": "Permanent storage devices include hard disk, USB flash, CD/DVD."
+          },
+          {
+            "q": "How much free storage does Google Drive provide?",
+            "a": "Permanent storage devices include hard disk, USB flash, CD/DVD."
+          }
+        ],
+        "short": [
+          {
+            "q": "Name two popular cloud storage service providers.",
+            "a": "Permanent storage devices include hard disk, USB flash, CD/DVD."
+          },
+          {
+            "q": "Which of the following is a primary memory?",
+            "a": "Based on the chapter text: Which of the following is a primary memory?"
+          }
+        ],
+        "long": [
+          {
+            "q": "Which memory stores the BIOS firmware?",
+            "a": "Based on the chapter text: Which memory stores the BIOS firmware?"
+          }
+        ],
+        "exercise": [
+          {
+            "q": "How many bits are in two bytes?",
+            "a": "Based on the chapter text: How many bits are in two bytes?"
+          },
+          {
+            "q": "What is cloud storage?",
+            "a": "Permanent storage devices include hard disk, USB flash, CD/DVD."
+          },
+          {
+            "q": "How much free storage does Google Drive provide?",
+            "a": "Permanent storage devices include hard disk, USB flash, CD/DVD."
+          },
+          {
+            "q": "Name two popular cloud storage service providers.",
+            "a": "Permanent storage devices include hard disk, USB flash, CD/DVD."
+          },
+          {
+            "q": "Which of the following is a primary memory?",
+            "a": "Based on the chapter text: Which of the following is a primary memory?"
+          },
+          {
+            "q": "Which memory stores the BIOS firmware?",
+            "a": "Based on the chapter text: Which memory stores the BIOS firmware?"
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 12: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-13",
+      "chapter": "Chapter 13",
+      "title": "Chapter 13 — Multimedia",
+      "pages": "",
+      "overview": "Chapter 2 29 9. Which is faster: HDD or SSD? a. Both are same c. Depends on color 10.",
+      "summary": "This chapter covers multimedia based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "definition",
+          "term": "Which",
+          "text": "Which is faster: HDD or SSD? a."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Which is faster: HDD or SSD?",
+            "a": "Based on the chapter text: Which is faster: HDD or SSD?"
+          },
+          {
+            "q": "Which device uses laser technology to read and write data?",
+            "a": "Based on the chapter text: Which device uses laser technology to read and write data?"
+          },
+          {
+            "q": "What does USB stand for?",
+            "a": "Based on the chapter text: What does USB stand for?"
+          }
+        ],
+        "short": [
+          {
+            "q": "Which storage device is most portable?",
+            "a": "Permanent storage devices include hard disk, USB flash, CD/DVD."
+          },
+          {
+            "q": "Which memory is used to store data temporarily while the computer is running?",
+            "a": "Based on the chapter text: Which memory is used to store data temporarily while the computer is running?"
+          }
+        ],
+        "long": [
+          {
+            "q": "Which factor is NOT considered when choosing a storage device?",
+            "a": "Permanent storage devices include hard disk, USB flash, CD/DVD."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Which is faster: HDD or SSD?",
+            "a": "Based on the chapter text: Which is faster: HDD or SSD?"
+          },
+          {
+            "q": "Which device uses laser technology to read and write data?",
+            "a": "Based on the chapter text: Which device uses laser technology to read and write data?"
+          },
+          {
+            "q": "What does USB stand for?",
+            "a": "Based on the chapter text: What does USB stand for?"
+          },
+          {
+            "q": "Which storage device is most portable?",
+            "a": "Permanent storage devices include hard disk, USB flash, CD/DVD."
+          },
+          {
+            "q": "Which memory is used to store data temporarily while the computer is running?",
+            "a": "Based on the chapter text: Which memory is used to store data temporarily while the computer is running?"
+          },
+          {
+            "q": "Which factor is NOT considered when choosing a storage device?",
+            "a": "Permanent storage devices include hard disk, USB flash, CD/DVD."
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 13: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-14",
+      "chapter": "Chapter 14",
+      "title": "Chapter 14 — Contemporary Technologies",
+      "pages": "",
+      "overview": "Chapter 3 33 3.2 Conversion of Number System 1. Decimal Number System to Binary Number System a. Divide the given number by 2. b. Write the quotient under the number.",
+      "summary": "This chapter covers contemporary technologies based on the Class 8 textbook. Key definitions and concepts are explained with examples. Review chapter text for full details.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Chapter 3 33 3.2 Conversion of Number System 1. Decimal Number System to Binary Number System a. Divide the given number by 2. b. Write the quotient under the number."
+        }
+      ],
+      "questions": {
+        "very_short": [],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review summary section."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review question from chapter (see textbook text).",
+            "a": "Based on the chapter content: review the summary and key definitions for the correct explanation."
+          },
+          {
+            "q": "Definition question from chapter.",
+            "a": "Refer to the chapter summary section for the definition and explanation."
+          },
+          {
+            "q": "Application/example question.",
+            "a": "Based on textbook examples described in the chapter — apply the concept to the given scenario."
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 14: review summary and define key terms."
+    },
+    {
+      "unit_id": "unit-15",
+      "chapter": "Chapter 15",
+      "title": "Chapter 15 — Programming (QBasic)",
+      "pages": "",
+      "overview": "Chapter 3 35 2. Binary Subtraction Rule for binary subtraction 1–1 = 0 1–0 = 1 0–1 = 1 (with borrowing 1) 0–0 = 0 Example: Binary subtraction 101101 minuend −10111 subtrahend 10110 difference 3. Binary Multiplication Rule for binary multiplication 1×1= 1 1×0= 0 0×1= 0 0×0= 0 Example: Binary multipli",
+      "summary": "Chapter 3 35 2. Binary Subtraction Rule for binary subtraction 1–1 = 0 1–0 = 1 0–1 = 1 (with borrowing 1) 0–0 = 0 Example: Binary subtraction 101101 minuend −10111 subtrahend 10110 difference 3. Binary Multiplication Rule for binary multiplication 1×1= 1 1×0= 0 0×1= 0 0×0= 0 Example: Binary multiplication 1011 multiplicand × 1011 multiplier 1011 1011x 0000xx + 1011xxx 1111001 product 4. Binary Division Rule for binary division 1÷1= 1 1÷0= not defined 0÷1= 0 0÷0= not defined Example: Binary Division Divide 101011 by 110 110) 101011 (111 quotient – 110 1001 – 110 111 − 110 1 remainder ∴ Quotient = 111 and remainder = 1  Key Terms  Binary number system: uses 2 digits: 0 and 1  Decimal number system: uses 10 digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9  Hexadecimal number system: uses 16 symbols: 10 digits (0,1,2,3,4,5,6,7,8,9) and (A,B,C,D,E,F). where, A = 10, B = 11, C = 12, D = 13, E = 14, F ...",
+      "concepts": [
+        {
+          "type": "definition",
+          "term": "Which of the following",
+          "text": "Which of the following is a binary number? a. 102 b. 210 c. 1011 d. 89 2."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Which of the following is a binary number?",
+            "a": "Based on the chapter text: Which of the following is a binary number?"
+          },
+          {
+            "q": "Which digits are used in the octal number system?",
+            "a": "Based on the chapter text: Which digits are used in the octal number system?"
+          },
+          {
+            "q": "What is the decimal equivalent of binary 1010?",
+            "a": "Based on the chapter text: What is the decimal equivalent of binary 1010?"
+          }
+        ],
+        "short": [
+          {
+            "q": "What is the decimal equivalent of hexadecimal A?",
+            "a": "Based on the chapter text: What is the decimal equivalent of hexadecimal A?"
+          }
+        ],
+        "long": [
+          {
+            "q": "What is the decimal equivalent of hexadecimal A?",
+            "a": "Based on the chapter text: What is the decimal equivalent of hexadecimal A?"
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Which of the following is a binary number?",
+            "a": "Based on the chapter text: Which of the following is a binary number?"
+          },
+          {
+            "q": "Which digits are used in the octal number system?",
+            "a": "Based on the chapter text: Which digits are used in the octal number system?"
+          },
+          {
+            "q": "What is the decimal equivalent of binary 1010?",
+            "a": "Based on the chapter text: What is the decimal equivalent of binary 1010?"
+          },
+          {
+            "q": "What is the decimal equivalent of hexadecimal A?",
+            "a": "Based on the chapter text: What is the decimal equivalent of hexadecimal A?"
+          }
+        ]
+      },
+      "study_note": "Key points from Chapter 15: review summary and define key terms."
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "class": 7,
+  "subject": "Computer Science",
+  "book": "Essentials of Computer Science",
+  "units": [
+    {
+      "unit_id": "unit-1",
+      "chapter": "Chapter 1",
+      "title": "Chapter 1 — Introduction to Computers",
+      "pages": "",
+      "overview": "Chapter 1 5  Advantages of Computer are; it is faster than a human being. It is accurate, reliable and versatile device.  Disadvantages of Computer are; it is used for cyber crimes and spreading malicious computer viruses. Skilled manpower is requi",
+      "summary": "Chapter 1 5  Advantages of Computer are; it is faster than a human being. It is accurate, reliable and versatile device.  Disadvantages of Computer are; it is used for cyber crimes and spreading malicious computer viruses. Skilled manpower is required to work and increased dependency on the computer. 📚 Exercise 1 1. State whether the following statements are true or false. Rewrite each false statement to make it a true statement: a. The word “computer” comes from the Latin word “comput”. b. Printer is an input unit. c. This term GIGO means Garbage Input Garbage Output. d. The meaning of a versatile machine means able to do many similar things. e. A bit is an abbreviation word of a binary digit (bit = binary digit). 2. Fill in the blanks with appropriate word: a. Computer can be defined as ... ... ... device. b. Mouse is ... ... ... device. c. A ... ... ... is a versatile machine. d. Th...",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Chapter 1 5  Advantages of Computer are; it is faster than a human being. It is accurate, reliable and versatile device.  Disadvantages of Computer are; it is used for cyber crimes and spreading mal"
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. Define computer with its characteristics.",
+            "a": "A computer is an electronic device that accepts data, processes according to instructions, and produces output. Main characteristics: speed, accuracy, storage, automation, diligence, versatility."
+          },
+          {
+            "q": "2. Give two examples of input devices.",
+            "a": "Keyboard and mouse are common input devices."
+          },
+          {
+            "q": "3. Name any two permanent storage devices.",
+            "a": "Hard disk and USB flash drive (or CD/DVD) are permanent storage devices."
+          }
+        ],
+        "short": [
+          {
+            "q": "Self-Test: What is GIGO?",
+            "a": "Garbage In Garbage Out — incorrect input produces incorrect output; correct input produces correct output."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the chapter summary and definitions for the full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. Define computer with its characteristics.",
+            "a": "A computer is an electronic device that accepts data, processes according to instructions, and produces output. Main characteristics: speed, accuracy, storage, automation, diligence, versatility."
+          },
+          {
+            "q": "2. Give two examples of input devices.",
+            "a": "Keyboard and mouse are common input devices."
+          },
+          {
+            "q": "3. Name any two permanent storage devices.",
+            "a": "Hard disk and USB flash drive (or CD/DVD) are permanent storage devices."
+          },
+          {
+            "q": "Self-Test: What is GIGO?",
+            "a": "Garbage In Garbage Out — incorrect input produces incorrect output; correct input produces correct output."
+          }
+        ]
+      },
+      "study_note": "Review Chapter 1 — Introduction to Computers: remember key definitions and exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-2",
+      "chapter": "Chapter 2",
+      "title": "Chapter 2 — Computer Hardware",
+      "pages": "",
+      "overview": "Chapter 2 9 Figure: Abacus An abacus consists of a rectangular frame carrying a number of wooden rods. Its mid- bar divides each of these rods into unequal - upper and lower frames. The upper frame is called heaven, whereas the lower frame is called ",
+      "summary": "Chapter 2 9 Figure: Abacus An abacus consists of a rectangular frame carrying a number of wooden rods. Its mid- bar divides each of these rods into unequal - upper and lower frames. The upper frame is called heaven, whereas the lower frame is called the earth. Heaven consists of two beads, whereas the earth part consists of five beads to each rod. The value of bead on heaven part is five and the earth is one. Calculation is done by moving the beads – up and down in the rod and counting them. Napier Bone Napier's bones are a manually-operated calculating device created by John Napier. Napier's Bones are numbered rods to help work different multiplication problems. He used bones to demonstrate division by subtraction and multiplication by addition, according to the principle of logarithms. He also published the table of logarithms in 1614 AD. It was very useful in simplifying the multiplic...",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Chapter 2 9 Figure: Abacus An abacus consists of a rectangular frame carrying a number of wooden rods. Its mid- bar divides each of these rods into unequal - upper and lower frames. The upper frame is"
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What are hardware components?",
+            "a": "Input devices, CPU, memory (RAM/ROM), output devices, and storage devices."
+          },
+          {
+            "q": "2. Explain CPU functions.",
+            "a": "CPU (Central Processing Unit) performs arithmetic/logic operations via ALU and controls data flow via Control Unit."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the chapter summary and definitions for the full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What are hardware components?",
+            "a": "Input devices, CPU, memory (RAM/ROM), output devices, and storage devices."
+          },
+          {
+            "q": "2. Explain CPU functions.",
+            "a": "CPU (Central Processing Unit) performs arithmetic/logic operations via ALU and controls data flow via Control Unit."
+          }
+        ]
+      },
+      "study_note": "Review Chapter 2 — Computer Hardware: remember key definitions and exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-3",
+      "chapter": "Chapter 3",
+      "title": "Chapter 3 — Computer Memory",
+      "pages": "",
+      "overview": "Chapter 3 19 Figure: First Generation of Computer The features of first generation of computers are enlisted below: • Vacuum tube technology is used in the computer. • The operating speed was in terms of millisecond. • Magnetic core memory and magnet",
+      "summary": "Chapter 3 19 Figure: First Generation of Computer The features of first generation of computers are enlisted below: • Vacuum tube technology is used in the computer. • The operating speed was in terms of millisecond. • Magnetic core memory and magnetic drum were used as the primary devices. • The computers were used for simple mathematical calculation. • Example: ENIAC, EDVAC, EDSAC, UNIVAC. Second Generation of Computer The second generation of computer began with the development of the transistors. The size of the computers was decreased as vacuum tubes were replaced with transistors. Figure: Second Generation of Computer The features of second generation of computers are enlisted below: • Transistor was used as the main component. • The operating speed was in terms of microsecond. • Magnetic core memory and magnetic tape were used as the memory devices. • The computers were used for s...",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Chapter 3 19 Figure: First Generation of Computer The features of first generation of computers are enlisted below: • Vacuum tube technology is used in the computer. • The operating speed was in terms"
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. Explain the main concept of this chapter.",
+            "a": "Refer to the chapter summary — key points include definitions, processes, and applications described in the text."
+          },
+          {
+            "q": "2. Give examples from the textbook.",
+            "a": "Examples include practical applications and definitions covered in the chapter summary section."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the chapter summary and definitions for the full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. Explain the main concept of this chapter.",
+            "a": "Refer to the chapter summary — key points include definitions, processes, and applications described in the text."
+          },
+          {
+            "q": "2. Give examples from the textbook.",
+            "a": "Examples include practical applications and definitions covered in the chapter summary section."
+          }
+        ]
+      },
+      "study_note": "Review Chapter 3 — Computer Memory: remember key definitions and exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-4",
+      "chapter": "Chapter 4",
+      "title": "Chapter 4 — Computer Software",
+      "pages": "",
+      "overview": "27 Figure: Analog Computer Presley, AKAT-1, and A-100 are an example of analog computer and analog devices are speedometer, thermometer, ammeter, voltmeter, etc. 2. Digital Computer Digital computer operates on discontinuous data like 0 and 1. It ope",
+      "summary": "27 Figure: Analog Computer Presley, AKAT-1, and A-100 are an example of analog computer and analog devices are speedometer, thermometer, ammeter, voltmeter, etc. 2. Digital Computer Digital computer operates on discontinuous data like 0 and 1. It operates by counting and calculation. Its accuracy is high. It usually has high storage capacity. It is a general- purpose computer. Figure: Digital Computer Desktop PC, and Laptop are the examples of digital computer. 3. Hybrid Computer Hybrid computer has the combined features of both analog and digital computer. It can operate on both continuous and discontinuous data. It can convert analog data into digital and vice-versa. It is a special purpose computer. It is used in application areas like hospital, rocket launching, weather forecasting, industry, aviation. 28 Essentials of Computer Science– 7 Figure: Hybrid Computer Difference between An...",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "27 Figure: Analog Computer Presley, AKAT-1, and A-100 are an example of analog computer and analog devices are speedometer, thermometer, ammeter, voltmeter, etc. 2. Digital Computer Digital computer o"
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. Explain the main concept of this chapter.",
+            "a": "Refer to the chapter summary — key points include definitions, processes, and applications described in the text."
+          },
+          {
+            "q": "2. Give examples from the textbook.",
+            "a": "Examples include practical applications and definitions covered in the chapter summary section."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the chapter summary and definitions for the full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. Explain the main concept of this chapter.",
+            "a": "Refer to the chapter summary — key points include definitions, processes, and applications described in the text."
+          },
+          {
+            "q": "2. Give examples from the textbook.",
+            "a": "Examples include practical applications and definitions covered in the chapter summary section."
+          }
+        ]
+      },
+      "study_note": "Review Chapter 4 — Computer Software: remember key definitions and exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-5",
+      "chapter": "Chapter 5",
+      "title": "Chapter 5 — Operating System",
+      "pages": "",
+      "overview": "35 Figure: Keyboard Most keyboards have the following keys. • Alphanumeric keys (letters and numbers). • Punctuation Keys (comma, semicolon, and so on). • Special Keys (function keys, control keys, arrow keys, caps lock keys, and so on). 2. Mouse Mou",
+      "summary": "35 Figure: Keyboard Most keyboards have the following keys. • Alphanumeric keys (letters and numbers). • Punctuation Keys (comma, semicolon, and so on). • Special Keys (function keys, control keys, arrow keys, caps lock keys, and so on). 2. Mouse Mouse is a small hand-held pointing and clicking input device used to control the position of the cursor on the screen. It is a small plastic box with two or three buttons on the top. Two rotating wheels inside the mouse detect the movement and the direction of the movement. By pressing the mouse button, the user communicates his/her choice to the computer. The mechanical mouse consists of a ball on its underneath, that translates the mouse movement into digital signals. This mouse contains 1-3 buttons. Figure: Mouse 36 Essentials of Computer Science– 7 3. Scanner The scanner is an input device, which is used to enter text, images, and graphs pr...",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "35 Figure: Keyboard Most keyboards have the following keys. • Alphanumeric keys (letters and numbers). • Punctuation Keys (comma, semicolon, and so on). • Special Keys (function keys, control keys, ar"
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. Explain the main concept of this chapter.",
+            "a": "Refer to the chapter summary — key points include definitions, processes, and applications described in the text."
+          },
+          {
+            "q": "2. Give examples from the textbook.",
+            "a": "Examples include practical applications and definitions covered in the chapter summary section."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the chapter summary and definitions for the full answer."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. Explain the main concept of this chapter.",
+            "a": "Refer to the chapter summary — key points include definitions, processes, and applications described in the text."
+          },
+          {
+            "q": "2. Give examples from the textbook.",
+            "a": "Examples include practical applications and definitions covered in the chapter summary section."
+          }
+        ]
+      },
+      "study_note": "Review Chapter 5 — Operating System: remember key definitions and exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-6",
+      "chapter": "Chapter 6",
+      "title": "Chapter 6 — Topic from Essentials of Computer Science",
+      "pages": "",
+      "overview": "Chapter content from Class 7 textbook — review summary section for key points.",
+      "summary": "This chapter covers important computer science concepts from the Class 7 textbook. Key definitions, processes, and applications are covered in the source material.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Chapter Overview",
+          "text": "Refer to textbook for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Key definition from chapter.",
+            "a": "Review the chapter summary and important concepts section in the textbook."
+          }
+        ],
+        "short": [
+          {
+            "q": "Explain a main concept.",
+            "a": "Based on Chapter content: the concept is covered in the textbook summary; review definitions and examples."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the chapter topic.",
+            "a": "Refer to the textbook chapter for full explanation of concepts, definitions, and applications."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from textbook (see source).",
+            "a": "Based on the chapter text: review the relevant section for the correct solution."
+          }
+        ]
+      },
+      "study_note": "Chapter 6 — review textbook text for definitions and exercises."
+    },
+    {
+      "unit_id": "unit-7",
+      "chapter": "Chapter 7",
+      "title": "Chapter 7 — Topic from Essentials of Computer Science",
+      "pages": "",
+      "overview": "Chapter content from Class 7 textbook — review summary section for key points.",
+      "summary": "This chapter covers important computer science concepts from the Class 7 textbook. Key definitions, processes, and applications are covered in the source material.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Chapter Overview",
+          "text": "Refer to textbook for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Key definition from chapter.",
+            "a": "Review the chapter summary and important concepts section in the textbook."
+          }
+        ],
+        "short": [
+          {
+            "q": "Explain a main concept.",
+            "a": "Based on Chapter content: the concept is covered in the textbook summary; review definitions and examples."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the chapter topic.",
+            "a": "Refer to the textbook chapter for full explanation of concepts, definitions, and applications."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from textbook (see source).",
+            "a": "Based on the chapter text: review the relevant section for the correct solution."
+          }
+        ]
+      },
+      "study_note": "Chapter 7 — review textbook text for definitions and exercises."
+    },
+    {
+      "unit_id": "unit-8",
+      "chapter": "Chapter 8",
+      "title": "Chapter 8 — Topic from Essentials of Computer Science",
+      "pages": "",
+      "overview": "Chapter content from Class 7 textbook — review summary section for key points.",
+      "summary": "This chapter covers important computer science concepts from the Class 7 textbook. Key definitions, processes, and applications are covered in the source material.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Chapter Overview",
+          "text": "Refer to textbook for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Key definition from chapter.",
+            "a": "Review the chapter summary and important concepts section in the textbook."
+          }
+        ],
+        "short": [
+          {
+            "q": "Explain a main concept.",
+            "a": "Based on Chapter content: the concept is covered in the textbook summary; review definitions and examples."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the chapter topic.",
+            "a": "Refer to the textbook chapter for full explanation of concepts, definitions, and applications."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from textbook (see source).",
+            "a": "Based on the chapter text: review the relevant section for the correct solution."
+          }
+        ]
+      },
+      "study_note": "Chapter 8 — review textbook text for definitions and exercises."
+    },
+    {
+      "unit_id": "unit-9",
+      "chapter": "Chapter 9",
+      "title": "Chapter 9 — Topic from Essentials of Computer Science",
+      "pages": "",
+      "overview": "Chapter content from Class 7 textbook — review summary section for key points.",
+      "summary": "This chapter covers important computer science concepts from the Class 7 textbook. Key definitions, processes, and applications are covered in the source material.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Chapter Overview",
+          "text": "Refer to textbook for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Key definition from chapter.",
+            "a": "Review the chapter summary and important concepts section in the textbook."
+          }
+        ],
+        "short": [
+          {
+            "q": "Explain a main concept.",
+            "a": "Based on Chapter content: the concept is covered in the textbook summary; review definitions and examples."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the chapter topic.",
+            "a": "Refer to the textbook chapter for full explanation of concepts, definitions, and applications."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from textbook (see source).",
+            "a": "Based on the chapter text: review the relevant section for the correct solution."
+          }
+        ]
+      },
+      "study_note": "Chapter 9 — review textbook text for definitions and exercises."
+    },
+    {
+      "unit_id": "unit-10",
+      "chapter": "Chapter 10",
+      "title": "Chapter 10 — Topic from Essentials of Computer Science",
+      "pages": "",
+      "overview": "Chapter content from Class 7 textbook — review summary section for key points.",
+      "summary": "This chapter covers important computer science concepts from the Class 7 textbook. Key definitions, processes, and applications are covered in the source material.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Chapter Overview",
+          "text": "Refer to textbook for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Key definition from chapter.",
+            "a": "Review the chapter summary and important concepts section in the textbook."
+          }
+        ],
+        "short": [
+          {
+            "q": "Explain a main concept.",
+            "a": "Based on Chapter content: the concept is covered in the textbook summary; review definitions and examples."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the chapter topic.",
+            "a": "Refer to the textbook chapter for full explanation of concepts, definitions, and applications."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from textbook (see source).",
+            "a": "Based on the chapter text: review the relevant section for the correct solution."
+          }
+        ]
+      },
+      "study_note": "Chapter 10 — review textbook text for definitions and exercises."
+    },
+    {
+      "unit_id": "unit-11",
+      "chapter": "Chapter 11",
+      "title": "Chapter 11 — Topic from Essentials of Computer Science",
+      "pages": "",
+      "overview": "Chapter content from Class 7 textbook — review summary section for key points.",
+      "summary": "This chapter covers important computer science concepts from the Class 7 textbook. Key definitions, processes, and applications are covered in the source material.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Chapter Overview",
+          "text": "Refer to textbook for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Key definition from chapter.",
+            "a": "Review the chapter summary and important concepts section in the textbook."
+          }
+        ],
+        "short": [
+          {
+            "q": "Explain a main concept.",
+            "a": "Based on Chapter content: the concept is covered in the textbook summary; review definitions and examples."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the chapter topic.",
+            "a": "Refer to the textbook chapter for full explanation of concepts, definitions, and applications."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from textbook (see source).",
+            "a": "Based on the chapter text: review the relevant section for the correct solution."
+          }
+        ]
+      },
+      "study_note": "Chapter 11 — review textbook text for definitions and exercises."
+    },
+    {
+      "unit_id": "unit-12",
+      "chapter": "Chapter 12",
+      "title": "Chapter 12 — Topic from Essentials of Computer Science",
+      "pages": "",
+      "overview": "Chapter content from Class 7 textbook — review summary section for key points.",
+      "summary": "This chapter covers important computer science concepts from the Class 7 textbook. Key definitions, processes, and applications are covered in the source material.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Chapter Overview",
+          "text": "Refer to textbook for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Key definition from chapter.",
+            "a": "Review the chapter summary and important concepts section in the textbook."
+          }
+        ],
+        "short": [
+          {
+            "q": "Explain a main concept.",
+            "a": "Based on Chapter content: the concept is covered in the textbook summary; review definitions and examples."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the chapter topic.",
+            "a": "Refer to the textbook chapter for full explanation of concepts, definitions, and applications."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from textbook (see source).",
+            "a": "Based on the chapter text: review the relevant section for the correct solution."
+          }
+        ]
+      },
+      "study_note": "Chapter 12 — review textbook text for definitions and exercises."
+    },
+    {
+      "unit_id": "unit-13",
+      "chapter": "Chapter 13",
+      "title": "Chapter 13 — Topic from Essentials of Computer Science",
+      "pages": "",
+      "overview": "Chapter content from Class 7 textbook — review summary section for key points.",
+      "summary": "This chapter covers important computer science concepts from the Class 7 textbook. Key definitions, processes, and applications are covered in the source material.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Chapter Overview",
+          "text": "Refer to textbook for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Key definition from chapter.",
+            "a": "Review the chapter summary and important concepts section in the textbook."
+          }
+        ],
+        "short": [
+          {
+            "q": "Explain a main concept.",
+            "a": "Based on Chapter content: the concept is covered in the textbook summary; review definitions and examples."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the chapter topic.",
+            "a": "Refer to the textbook chapter for full explanation of concepts, definitions, and applications."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from textbook (see source).",
+            "a": "Based on the chapter text: review the relevant section for the correct solution."
+          }
+        ]
+      },
+      "study_note": "Chapter 13 — review textbook text for definitions and exercises."
+    },
+    {
+      "unit_id": "unit-14",
+      "chapter": "Chapter 14",
+      "title": "Chapter 14 — Topic from Essentials of Computer Science",
+      "pages": "",
+      "overview": "Chapter content from Class 7 textbook — review summary section for key points.",
+      "summary": "This chapter covers important computer science concepts from the Class 7 textbook. Key definitions, processes, and applications are covered in the source material.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Chapter Overview",
+          "text": "Refer to textbook for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Key definition from chapter.",
+            "a": "Review the chapter summary and important concepts section in the textbook."
+          }
+        ],
+        "short": [
+          {
+            "q": "Explain a main concept.",
+            "a": "Based on Chapter content: the concept is covered in the textbook summary; review definitions and examples."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the chapter topic.",
+            "a": "Refer to the textbook chapter for full explanation of concepts, definitions, and applications."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from textbook (see source).",
+            "a": "Based on the chapter text: review the relevant section for the correct solution."
+          }
+        ]
+      },
+      "study_note": "Chapter 14 — review textbook text for definitions and exercises."
+    },
+    {
+      "unit_id": "unit-15",
+      "chapter": "Chapter 15",
+      "title": "Chapter 15 — Topic from Essentials of Computer Science",
+      "pages": "",
+      "overview": "Chapter content from Class 7 textbook — review summary section for key points.",
+      "summary": "This chapter covers important computer science concepts from the Class 7 textbook. Key definitions, processes, and applications are covered in the source material.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Chapter Overview",
+          "text": "Refer to textbook for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Key definition from chapter.",
+            "a": "Review the chapter summary and important concepts section in the textbook."
+          }
+        ],
+        "short": [
+          {
+            "q": "Explain a main concept.",
+            "a": "Based on Chapter content: the concept is covered in the textbook summary; review definitions and examples."
+          }
+        ],
+        "long": [
+          {
+            "q": "Describe the chapter topic.",
+            "a": "Refer to the textbook chapter for full explanation of concepts, definitions, and applications."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from textbook (see source).",
+            "a": "Based on the chapter text: review the relevant section for the correct solution."
+          }
+        ]
+      },
+      "study_note": "Chapter 15 — review textbook text for definitions and exercises."
+    }
+  ]
+}

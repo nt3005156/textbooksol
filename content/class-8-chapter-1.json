@@ -1,0 +1,46 @@
+{
+  "class": 8,
+  "subject": "Computer Science",
+  "book": "Computer Science - 8 Final",
+  "chapter": "Chapter 1",
+  "title": "Computer and Its Characteristics",
+  "pages": "1–8",
+  "summary": "This chapter introduces the computer, its origin from the Latin word 'computare' (to compute/calculate), and its main characteristics: speed (millions of calculations per second), accuracy (near 100%, GIGO principle), automation (works automatically after input), diligence (works continuously without fatigue), versatility (handles different tasks via different programs), and storage capacity (measured in bits/bytes: 1 nibble = 4 bits, 1 byte = 8 bits, KB = 1024 bytes).",
+  "concepts": [
+    {"type":"definition","term":"Computer","text":"An electronic machine that accepts data, processes it according to instructions, and produces output."},
+    {"type":"keypoint","term":"GIGO","text":"Garbage In Garbage Out — incorrect input gives incorrect output; correct input gives correct output."},
+    {"type":"remember","term":"Storage Units","text":"1 bit = 0/1; 4 bits = 1 nibble; 8 bits = 1 byte; 1024 bytes = 1 KB; 1024 KB = 1 MB."},
+    {"type":"example","term":"Versatility","text":"Same computer can do math calculations, graphics design, word processing, and programming depending on the software provided."}
+  ],
+  "questions": {
+    "very_short": [
+      {"q":"From which Latin word is the term 'computer' derived?","a":"Computare (meaning to calculate/compute)."},
+      {"q":"What does CPU stand for?","a":"Central Processing Unit."},
+      {"q":"Give any two examples of input devices.","a":"Keyboard and mouse."},
+      {"q":"Name any two permanent storage devices.","a":"Hard disk and USB flash drive (or CD/DVD)."},
+      {"q":"What is GIGO?","a":"Garbage In Garbage Out — wrong input produces wrong output."}
+    ],
+    "short": [
+      {"q":"Define diligence of a computer.","a":"A computer is diligent because it can perform repetitive tasks continuously for hours or days without becoming bored or tired, maintaining the same speed and accuracy."},
+      {"q":"What does versatility mean?","a":"A computer can perform different tasks (simple calculations to complex logic) depending on the program provided. It is not limited to one type of job."},
+      {"q":"Explain accuracy of a computer.","a":"Accuracy is consistently high (about 100%). It depends on correct input and instructions. The GIGO principle states incorrect input leads to incorrect output."}
+    ],
+    "long": [
+      {"q":"Describe the major characteristics of a computer.","a":"The major characteristics are: (1) Speed — millions of calculations per second; (2) Accuracy — ~100% if input is correct (GIGO); (3) Automation — works automatically after receiving data and instructions; (4) Diligence — performs repetitive tasks continuously without fatigue; (5) Versatility — handles different jobs using different programs; (6) Storage capacity — stores huge amounts in memory divided into primary (RAM/ROM) and secondary (disk/USB/CD)."}
+    ],
+    "exercise": [
+      {"q":"1. From which Latin word is the term 'computer' derived? Explain.","a":"The term is derived from the Latin word 'computare', meaning 'to calculate' or 'to compute'."},
+      {"q":"2. What does CPU stand for? What is its role?","a":"CPU = Central Processing Unit. It is the brain of the computer that processes instructions and performs calculations."},
+      {"q":"3. Give any two examples of input devices.","a":"Keyboard and mouse are common input devices."},
+      {"q":"4. Name any two permanent storage devices.","a":"Hard disk drive and USB flash drive are permanent (secondary) storage devices."},
+      {"q":"Self-Test 1.1 — 1. Define diligence.","a":"Diligence means a computer can work continuously for long periods without becoming tired or bored, repeating tasks with the same speed and accuracy."},
+      {"q":"Self-Test 1.1 — 2. What does GIGO stand for?","a":"GIGO = Garbage In Garbage Out."},
+      {"q":"Self-Test 1.1 — 3. What do you mean by versatility?","a":"Versatility means the computer can perform many different types of tasks depending on the program given to it."},
+      {"q":"Self-Test 1.1 — 4. What do you mean by accuracy?","a":"Accuracy means the computer produces correct results (near 100%) when given correct input and instructions."}
+    ]
+  },
+  "diagrams": [
+    {"type":"table","title":"Computer Characteristics","svg":"<svg viewBox='0 0 400 160' xmlns='http://www.w3.org/2000/svg' aria-label='Characteristics'><rect x='10' y='10' width='380' height='30' rx='6' fill='#0f172a'/><text x='30' y='30' fill='#fff' font-size='12' font-family='sans-serif' font-weight='bold'>Characteristic | Meaning</text><rect x='10' y='40' width='380' height='22' rx='4' fill='#fff7ed'/><text x='20' y='55' fill='#0f172a' font-size='10'>Speed | Millions of calculations/second</text><rect x='10' y='62' width='380' height='22' rx='4' fill='#fff'/><text x='20' y='77' fill='#0f172a' font-size='10'>Accuracy | ~100% (GIGO principle)</text><rect x='10' y='84' width='380' height='22' rx='4' fill='#fff7ed'/><text x='20' y='99' fill='#0f172a' font-size='10'>Automation | Works automatically after input</text><rect x='10' y='106' width='380' height='22' rx='4' fill='#fff'/><text x='20' y='121' fill='#0f172a' font-size='10'>Diligence | No fatigue / continuous work</text><rect x='10' y='128' width='380' height='22' rx='4' fill='#fff7ed'/><text x='20' y='143' fill='#0f172a' font-size='10'>Versatility | Many tasks via different programs</text></svg>"}
+  ],
+  "study_note": "Remember: Computer = input → process → output. Key traits: Speed, Accuracy (GIGO), Automation, Diligence, Versatility, Storage. Units: bit → nibble → byte → KB → MB."
+}

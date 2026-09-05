@@ -1,0 +1,647 @@
+{
+  "class": 10,
+  "subject": "Computer Science",
+  "book": "Computer Science - Class 10",
+  "units": [
+    {
+      "unit_id": "unit-1",
+      "chapter": "Chapter 1",
+      "title": "Chapter 1 — Introduction to Computer System",
+      "pages": "",
+      "overview": "This chapter covers introduction to computer system from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 1 — Introduction to Computer System. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. Define data and information.",
+            "a": "Data is raw facts/numbers; information is processed/organized data that has meaning and use."
+          },
+          {
+            "q": "2. What is a computer system?",
+            "a": "A computer system is a combination of hardware, software, and user that works together to process data."
+          }
+        ],
+        "short": [
+          {
+            "q": "3. Give two examples of input devices.",
+            "a": "Keyboard and mouse."
+          }
+        ],
+        "long": [
+          {
+            "q": "4. What is software? Name its types.",
+            "a": "Software is a set of instructions/programs. Types: System software (OS) and Application software (Word, Excel)."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. Define data and information.",
+            "a": "Data is raw facts/numbers; information is processed/organized data that has meaning and use."
+          },
+          {
+            "q": "2. What is a computer system?",
+            "a": "A computer system is a combination of hardware, software, and user that works together to process data."
+          },
+          {
+            "q": "3. Give two examples of input devices.",
+            "a": "Keyboard and mouse."
+          },
+          {
+            "q": "4. What is software? Name its types.",
+            "a": "Software is a set of instructions/programs. Types: System software (OS) and Application software (Word, Excel)."
+          },
+          {
+            "q": "5. What is an operating system? Give examples.",
+            "a": "OS manages hardware/resources. Examples: Windows, Linux, macOS."
+          },
+          {
+            "q": "Self-Test: What is primary memory?",
+            "a": "Memory directly accessed by CPU (RAM and ROM)."
+          }
+        ]
+      },
+      "study_note": "Chapter 1 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-2",
+      "chapter": "Chapter 2",
+      "title": "Chapter 2 — Computer Hardware",
+      "pages": "",
+      "overview": "This chapter covers computer hardware from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 2 — Computer Hardware. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What are input devices? Give examples.",
+            "a": "Devices that enter data into computer: keyboard, mouse, scanner."
+          },
+          {
+            "q": "2. What is CPU? Explain ALU and CU.",
+            "a": "CPU = Central Processing Unit. ALU performs arithmetic/logic; CU directs operations."
+          }
+        ],
+        "short": [
+          {
+            "q": "3. Difference between RAM and ROM.",
+            "a": "RAM temporary/volatile; ROM permanent/non-volatile."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What are input devices? Give examples.",
+            "a": "Devices that enter data into computer: keyboard, mouse, scanner."
+          },
+          {
+            "q": "2. What is CPU? Explain ALU and CU.",
+            "a": "CPU = Central Processing Unit. ALU performs arithmetic/logic; CU directs operations."
+          },
+          {
+            "q": "3. Difference between RAM and ROM.",
+            "a": "RAM temporary/volatile; ROM permanent/non-volatile."
+          }
+        ]
+      },
+      "study_note": "Chapter 2 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-3",
+      "chapter": "Chapter 3",
+      "title": "Chapter 3 — Memory and Storage",
+      "pages": "",
+      "overview": "This chapter covers memory and storage from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 3 — Memory and Storage. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What is memory? Types?",
+            "a": "Storage for data/instructions. Primary (RAM/ROM) and Secondary (disk/USB/CD)."
+          },
+          {
+            "q": "2. What is a byte?",
+            "a": "8 bits = 1 byte."
+          }
+        ],
+        "short": [
+          {
+            "q": "2. What is a byte?",
+            "a": "8 bits = 1 byte."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is memory? Types?",
+            "a": "Storage for data/instructions. Primary (RAM/ROM) and Secondary (disk/USB/CD)."
+          },
+          {
+            "q": "2. What is a byte?",
+            "a": "8 bits = 1 byte."
+          }
+        ]
+      },
+      "study_note": "Chapter 3 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-4",
+      "chapter": "Chapter 4",
+      "title": "Chapter 4 — Computer Software",
+      "pages": "",
+      "overview": "This chapter covers computer software from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 4 — Computer Software. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. Types of software?",
+            "a": "System software (OS, drivers) and Application software (Word, Excel, browsers)."
+          },
+          {
+            "q": "2. What is an OS? Give examples.",
+            "a": "Operating System manages resources. Examples: Windows, Linux, Android."
+          }
+        ],
+        "short": [
+          {
+            "q": "2. What is an OS? Give examples.",
+            "a": "Operating System manages resources. Examples: Windows, Linux, Android."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. Types of software?",
+            "a": "System software (OS, drivers) and Application software (Word, Excel, browsers)."
+          },
+          {
+            "q": "2. What is an OS? Give examples.",
+            "a": "Operating System manages resources. Examples: Windows, Linux, Android."
+          }
+        ]
+      },
+      "study_note": "Chapter 4 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-5",
+      "chapter": "Chapter 5",
+      "title": "Chapter 5 — Operating System",
+      "pages": "",
+      "overview": "This chapter covers operating system from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 5 — Operating System. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. Functions of OS?",
+            "a": "Process, memory, file, device, security management."
+          },
+          {
+            "q": "2. What is cyber law?",
+            "a": "Legal rules for digital activities and data protection."
+          }
+        ],
+        "short": [
+          {
+            "q": "2. What is cyber law?",
+            "a": "Legal rules for digital activities and data protection."
+          }
+        ],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. Functions of OS?",
+            "a": "Process, memory, file, device, security management."
+          },
+          {
+            "q": "2. What is cyber law?",
+            "a": "Legal rules for digital activities and data protection."
+          }
+        ]
+      },
+      "study_note": "Chapter 5 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-6",
+      "chapter": "Chapter 6",
+      "title": "Chapter 6 — ICT and Cyber Law",
+      "pages": "",
+      "overview": "This chapter covers ict and cyber law from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 6 — ICT and Cyber Law. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ]
+      },
+      "study_note": "Chapter 6 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-7",
+      "chapter": "Chapter 7",
+      "title": "Chapter 7 — Internet and Email",
+      "pages": "",
+      "overview": "This chapter covers internet and email from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 7 — Internet and Email. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ]
+      },
+      "study_note": "Chapter 7 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-8",
+      "chapter": "Chapter 8",
+      "title": "Chapter 8 — Computer Malware",
+      "pages": "",
+      "overview": "This chapter covers computer malware from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 8 — Computer Malware. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ]
+      },
+      "study_note": "Chapter 8 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-9",
+      "chapter": "Chapter 9",
+      "title": "Chapter 9 — MS Word",
+      "pages": "",
+      "overview": "This chapter covers ms word from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 9 — MS Word. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ]
+      },
+      "study_note": "Chapter 9 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-10",
+      "chapter": "Chapter 10",
+      "title": "Chapter 10 — MS Excel",
+      "pages": "",
+      "overview": "This chapter covers ms excel from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 10 — MS Excel. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ]
+      },
+      "study_note": "Chapter 10 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-11",
+      "chapter": "Chapter 11",
+      "title": "Chapter 11 — MS PowerPoint",
+      "pages": "",
+      "overview": "This chapter covers ms powerpoint from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 11 — MS PowerPoint. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ]
+      },
+      "study_note": "Chapter 11 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-12",
+      "chapter": "Chapter 12",
+      "title": "Chapter 12 — Multimedia and Graphics",
+      "pages": "",
+      "overview": "This chapter covers multimedia and graphics from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 12 — Multimedia and Graphics. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ]
+      },
+      "study_note": "Chapter 12 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-13",
+      "chapter": "Chapter 13",
+      "title": "Chapter 13 — Web Design Basics",
+      "pages": "",
+      "overview": "This chapter covers web design basics from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 13 — Web Design Basics. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ]
+      },
+      "study_note": "Chapter 13 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-14",
+      "chapter": "Chapter 14",
+      "title": "Chapter 14 — Database (MySQL)",
+      "pages": "",
+      "overview": "This chapter covers database (mysql) from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 14 — Database (MySQL). Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ]
+      },
+      "study_note": "Chapter 14 — review key definitions and apply exercise answers from textbook."
+    },
+    {
+      "unit_id": "unit-15",
+      "chapter": "Chapter 15",
+      "title": "Chapter 15 — Programming Concepts",
+      "pages": "",
+      "overview": "This chapter covers programming concepts from the Class 10 Computer Science textbook.",
+      "summary": "Chapter 15 — Programming Concepts. Key concepts include definitions, processes, and applications. Review chapter text for full explanations.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter summary for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ],
+        "short": [],
+        "long": [
+          {
+            "q": "Refer to chapter text.",
+            "a": "Review the summary for full explanation."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Review/exercise from source text.",
+            "a": "Refer to the textbook chapter for the correct answer."
+          }
+        ]
+      },
+      "study_note": "Chapter 15 — review key definitions and apply exercise answers from textbook."
+    }
+  ]
+}

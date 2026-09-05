@@ -1,0 +1,817 @@
+{
+  "class": 11,
+  "subject": "Computer Science",
+  "book": "Computer Science - 11",
+  "units": [
+    {
+      "unit_id": "unit-1",
+      "chapter": "Chapter 1",
+      "title": "Chapter 1 — Introduction to Computer Science",
+      "pages": "",
+      "overview": "Chapter 1 covers introduction to computer science from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 1 — Introduction to Computer Science. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What is computer science?",
+            "a": "Study of computers, algorithms, and data processing — covers hardware, software, and applications."
+          },
+          {
+            "q": "2. Name two programming languages.",
+            "a": "Python and C/C++. Others include Java, JavaScript, QBasic."
+          }
+        ],
+        "short": [
+          {
+            "q": "3. What is an algorithm?",
+            "a": "A step-by-step procedure or set of rules to solve a problem."
+          }
+        ],
+        "long": [
+          {
+            "q": "2. Name two programming languages.",
+            "a": "Python and C/C++. Others include Java, JavaScript, QBasic."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is computer science?",
+            "a": "Study of computers, algorithms, and data processing — covers hardware, software, and applications."
+          },
+          {
+            "q": "2. Name two programming languages.",
+            "a": "Python and C/C++. Others include Java, JavaScript, QBasic."
+          },
+          {
+            "q": "3. What is an algorithm?",
+            "a": "A step-by-step procedure or set of rules to solve a problem."
+          }
+        ]
+      },
+      "study_note": "Chapter 1 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-2",
+      "chapter": "Chapter 2",
+      "title": "Chapter 2 — Programming Concepts",
+      "pages": "",
+      "overview": "Chapter 2 covers programming concepts from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 2 — Programming Concepts. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. Define variable and constant.",
+            "a": "Variable holds changing value; constant holds fixed value."
+          },
+          {
+            "q": "2. What is a loop? Give types.",
+            "a": "Loop repeats instructions. Types: for, while, do-while."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "2. What is a loop? Give types.",
+            "a": "Loop repeats instructions. Types: for, while, do-while."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. Define variable and constant.",
+            "a": "Variable holds changing value; constant holds fixed value."
+          },
+          {
+            "q": "2. What is a loop? Give types.",
+            "a": "Loop repeats instructions. Types: for, while, do-while."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 2 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-3",
+      "chapter": "Chapter 3",
+      "title": "Chapter 3 — Data Structures",
+      "pages": "",
+      "overview": "Chapter 3 covers data structures from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 3 — Data Structures. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What is a data structure?",
+            "a": "Organization of data for efficient access (arrays, lists, stacks, queues)."
+          },
+          {
+            "q": "2. Difference between stack and queue?",
+            "a": "Stack: LIFO; Queue: FIFO."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "2. Difference between stack and queue?",
+            "a": "Stack: LIFO; Queue: FIFO."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is a data structure?",
+            "a": "Organization of data for efficient access (arrays, lists, stacks, queues)."
+          },
+          {
+            "q": "2. Difference between stack and queue?",
+            "a": "Stack: LIFO; Queue: FIFO."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 3 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-4",
+      "chapter": "Chapter 4",
+      "title": "Chapter 4 — Computer Networks",
+      "pages": "",
+      "overview": "Chapter 4 covers computer networks from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 4 — Computer Networks. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What is a network?",
+            "a": "Connection of computers to share resources/data via protocols."
+          },
+          {
+            "q": "2. What is an IP address?",
+            "a": "Unique identifier for a device on a network."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "2. What is an IP address?",
+            "a": "Unique identifier for a device on a network."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is a network?",
+            "a": "Connection of computers to share resources/data via protocols."
+          },
+          {
+            "q": "2. What is an IP address?",
+            "a": "Unique identifier for a device on a network."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 4 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-5",
+      "chapter": "Chapter 5",
+      "title": "Chapter 5 — Database Concepts",
+      "pages": "",
+      "overview": "Chapter 5 covers database concepts from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 5 — Database Concepts. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "1. What is a database?",
+            "a": "Organized collection of data stored and accessed electronically."
+          },
+          {
+            "q": "2. What is SQL?",
+            "a": "Structured Query Language — used to manage relational databases."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "2. What is SQL?",
+            "a": "Structured Query Language — used to manage relational databases."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "1. What is a database?",
+            "a": "Organized collection of data stored and accessed electronically."
+          },
+          {
+            "q": "2. What is SQL?",
+            "a": "Structured Query Language — used to manage relational databases."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 5 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-6",
+      "chapter": "Chapter 6",
+      "title": "Chapter 6 — Web Technologies",
+      "pages": "",
+      "overview": "Chapter 6 covers web technologies from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 6 — Web Technologies. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 6 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-7",
+      "chapter": "Chapter 7",
+      "title": "Chapter 7 — Object-Oriented Programming",
+      "pages": "",
+      "overview": "Chapter 7 covers object-oriented programming from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 7 — Object-Oriented Programming. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 7 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-8",
+      "chapter": "Chapter 8",
+      "title": "Chapter 8 — Computer Architecture",
+      "pages": "",
+      "overview": "Chapter 8 covers computer architecture from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 8 — Computer Architecture. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 8 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-9",
+      "chapter": "Chapter 9",
+      "title": "Chapter 9 — Operating Systems",
+      "pages": "",
+      "overview": "Chapter 9 covers operating systems from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 9 — Operating Systems. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 9 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-10",
+      "chapter": "Chapter 10",
+      "title": "Chapter 10 — Software Engineering",
+      "pages": "",
+      "overview": "Chapter 10 covers software engineering from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 10 — Software Engineering. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 10 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-11",
+      "chapter": "Chapter 11",
+      "title": "Chapter 11 — Computer Graphics",
+      "pages": "",
+      "overview": "Chapter 11 covers computer graphics from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 11 — Computer Graphics. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 11 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-12",
+      "chapter": "Chapter 12",
+      "title": "Chapter 12 — Artificial Intelligence",
+      "pages": "",
+      "overview": "Chapter 12 covers artificial intelligence from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 12 — Artificial Intelligence. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 12 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-13",
+      "chapter": "Chapter 13",
+      "title": "Chapter 13 — Mobile Computing",
+      "pages": "",
+      "overview": "Chapter 13 covers mobile computing from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 13 — Mobile Computing. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 13 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-14",
+      "chapter": "Chapter 14",
+      "title": "Chapter 14 — Cloud Computing",
+      "pages": "",
+      "overview": "Chapter 14 covers cloud computing from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 14 — Cloud Computing. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 14 — review definitions and apply exercise answers from textbook text."
+    },
+    {
+      "unit_id": "unit-15",
+      "chapter": "Chapter 15",
+      "title": "Chapter 15 — Contemporary Technologies",
+      "pages": "",
+      "overview": "Chapter 15 covers contemporary technologies from the Class 11 Computer Science textbook.",
+      "summary": "Chapter 15 — Contemporary Technologies. Key definitions, concepts, and applications are covered in the textbook. Review summary for full explanation.",
+      "concepts": [
+        {
+          "type": "keypoint",
+          "term": "Overview",
+          "text": "Review chapter text for definitions and key points."
+        }
+      ],
+      "questions": {
+        "very_short": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "short": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "long": [
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ],
+        "exercise": [
+          {
+            "q": "Exercise from source text.",
+            "a": "Based on Chapter content: review summary and definitions for correct answer."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          },
+          {
+            "q": "Review question (see textbook).",
+            "a": "Refer to chapter summary and key definitions."
+          }
+        ]
+      },
+      "study_note": "Chapter 15 — review definitions and apply exercise answers from textbook text."
+    }
+  ]
+}
